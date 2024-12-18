@@ -20,8 +20,9 @@ days:
         category: Online Meeting
       - time: 8:00 to 9:00 pm
         title: MA Atwater Village - The Higher Path
-        subtitle: [Pathfinders Alano Club, 3367 Glendale Blvd, Los Angeles, CA 90039](https://goo.gl/maps/edQtq1zwp97njHpY8)
-        subtitle: [Join Online](https://us02web.zoom.us/j/87948919898?pwd=WDJwdDR5U2NsS2JkQk45M0Rndlpadz09) *this meeting meets simultaneously in person and online.
+        subtitle: |
+          [Pathfinders Alano Club, 3367 Glendale Blvd, Los Angeles, CA 90039](https://goo.gl/maps/edQtq1zwp97njHpY8)
+          [Join Online](https://us02web.zoom.us/j/87948919898?pwd=WDJwdDR5U2NsS2JkQk45M0Rndlpadz09) *this meeting meets simultaneously in person and online.
         category: Hybrid Meeting
   - name: Monday
     events:
@@ -54,7 +55,22 @@ days:
       - time: 18:00 to 19:00
         title: Closing
   - name: Tuesday
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
   - name: Wednesday
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
   - name: Thursday
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
   - name: Friday
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
   - name: Saturday
+    events:
+      - time: 8:00 to 9:00
+        title: Coffee
