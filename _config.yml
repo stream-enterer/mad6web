@@ -1,13 +1,12 @@
-title: Nagymaros
+title: Marijuana Anonymous District 6 - North Los Angeles
 description: Jekyll theme for a conference website
-baseurl: /jekyll-nagymaros
-url: https://piazzai.github.io
+baseurl: /mad6web
+url: https://stream-enterer.github.io
 
 permalink: pretty
-theme: jekyll-nagymaros
 
 home: /
-copyright: Place Holder
+copyright: MA District 6
 indexing: true
 
 exclude:
