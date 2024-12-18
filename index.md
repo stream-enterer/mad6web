@@ -1,13 +1,11 @@
 ---
 layout: index
-description: A simple Jekyll theme for a conference or workshop website
+description: North Los Angeles
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sit amet luctus venenatis lectus magna fringilla urna. Ut etiam sit amet nisl purus in mollis.
+Marijuana Anonymous is a free peer-support program focused entirely on our shared problem with marijuana or cannabis addiction. Marijuana Anonymous uses the basic 12 Steps, founded by Alcoholics Anonymous, because it has been proven that the 12-Step recovery program works.
 
-Purus semper eget duis at tellus. Ornare arcu odio ut sem nulla pharetra diam sit. Neque vitae tempus quam pellentesque. Viverra suspendisse potenti nullam ac tortor. Quis commodo odio aenean sed adipiscing. A erat nam at lectus urna duis convallis convallis tellus. Risus sed vulputate odio ut enim. Magna fringilla urna porttitor rhoncus dolor purus non. Nibh venenatis cras sed felis eget velit aliquet sagittis. Etiam tempor orci eu lobortis elementum nibh tellus.
-
-Vestibulum lectus mauris ultrices eros in cursus.
+District 6 serves North Los Angeles with meetings in and around the San Gabriel Valley.
 
 - Id nibh tortor id aliquet lectus proin nibh nisl.
 - Non diam phasellus vestibulum lorem sed risus ultricies.
