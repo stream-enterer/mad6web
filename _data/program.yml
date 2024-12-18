@@ -10,19 +10,17 @@ legend:
 days:
   - name: Sunday
     events:
-      - time: 7:30 to 9:00 pm
+      - time: 7:30 to 9:00
         title: Keep Off the Grass
         subtitle: [Woodland Hills United Methodist Church, 5650 Shoup Ave, Woodland Hills, CA 91367](https://goo.gl/maps/PwmvHaWjUkApYvd6A)
         category: In-Person Meeting
-      - time: 7:30 to 8:30 pm
+      - time: 7:30 to 8:30
         title: Woodland Hills (Online)
         subtitle: [Join Online](https://us02web.zoom.us/j/991191402?pwd=QVFnd25NOHVYNk5wQlRQMmJwdUtwQT09)
         category: Online Meeting
-      - time: 8:00 to 9:00 pm
+      - time: 8:00 to 9:00
         title: MA Atwater Village - The Higher Path
-        subtitle: |
-          [Pathfinders Alano Club, 3367 Glendale Blvd, Los Angeles, CA 90039](https://goo.gl/maps/edQtq1zwp97njHpY8)
-          [Join Online](https://us02web.zoom.us/j/87948919898?pwd=WDJwdDR5U2NsS2JkQk45M0Rndlpadz09) *this meeting meets simultaneously in person and online.
+        subtitle: [Pathfinders Alano Club, 3367 Glendale Blvd, Los Angeles, CA 90039](https://goo.gl/maps/edQtq1zwp97njHpY8) [Join Online](https://us02web.zoom.us/j/87948919898?pwd=WDJwdDR5U2NsS2JkQk45M0Rndlpadz09) *this meeting meets simultaneously in person and online.
         category: Hybrid Meeting
   - name: Monday
     events:
@@ -31,23 +29,19 @@ days:
       - time: 9:00 to 11:00
         title: Tempor incididunt
         subtitle: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-        category: A category
         paper: /assets/files/paper-1.pdf
       - time: 11:00 to 13:00
         title: Ut labore et dolore
         subtitle: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
-        category: Another category
       - time: 13:00 to 14:00
         title: Lunch break
       - time: 14:00 to 16:00
         title: Magna aliqua
         subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
-        category: Yet another category
         paper: /assets/files/paper-2.pdf
         slides: /assets/files/slides.pdf
       - time: 16:00 to 18:00
         title: Poster presentations
-        category: Yet another category
         poster:
           - /assets/files/poster-a.pdf
           - /assets/files/poster-b.pdf
