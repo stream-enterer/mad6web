@@ -30,8 +30,25 @@ $green:   #2fb380 !default;
 $teal:    #20c997 !default;
 $cyan:    #287bb5 !default;
 
-$primary:       $blue !default;
-$secondary:     $white !default;
+$background: #fafafa !default;
+$light-gray: #f0f0f1 !default;
+$lighter-gray: #e5e5e6 !default;
+$medium-gray: #a0a1a7 !default;
+$dark-gray: #696c77 !default;
+$text: #383a42 !default;
+$darker-gray: #202227 !default;
+$black: #090a0b !default;
+$red: #ca1243 !default;
+$orange: #d75f00 !default;
+$yellow: #c18401 !default;
+$green: #50a14f !default;
+$cyan: #0184bc !default;
+$blue: #4078f2 !default;
+$purple: #a626a4 !default;
+$brown: #986801 !default;
+
+$primary:       $green !default;
+$secondary:     $background !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
